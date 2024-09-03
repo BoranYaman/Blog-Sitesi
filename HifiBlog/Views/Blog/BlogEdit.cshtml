@@ -1,0 +1,140 @@
+@model Blog
+    <style>
+        .form-container {
+            margin: 5% auto;
+            padding: 2%;
+            border: solid 1px rgb(156, 156, 39);
+            background-color: rgb(241, 241, 241);
+            width: 50em;
+        }
+        .form-control {
+            margin-bottom: 1rem;
+        }
+        .form-label {
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+        }
+    </style>
+    
+        <form  style="width: 80em;" asp-controller="Blog" asp-action="BlogEdit" method="post" enctype="multipart/form-data" class="form-container">
+           <input type="hidden" asp-for="BlogId">
+            <div class="form-group">
+                <label asp-for="BlogImg" class="form-label">Blog Resimleri</label>
+                <input asp-for="BlogImg" class="form-control">
+            </div>
+            <div class="form-group">
+                <label asp-for="BlogName" class="form-label">Blog Başlığı</label>
+                <input asp-for="BlogName" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label asp-for="BlogText" class="form-label"></label>
+                <textarea  style="height: 80em;" asp-for="BlogText" class="form-control"></textarea>
+                <span asp-validation-for="BlogText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TypeOfUse" class="form-label">Kullanım Türü</label>
+                <select asp-for="TypeOfUse" class="form-control">
+                    <option>Kulak İçi</option>
+                    <option>Kulak Üstü</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConnectionType" class="form-label">Bağlantı Türü</label>
+                <select asp-for="ConnectionType" class="form-control">
+                    <option>Kablolu</option>
+                    <option>Kablosuz</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="JakType" class="form-label">Jak Türü</label>
+                <select asp-for="JakType" class="form-control">
+                    <option>3.5mm</option>
+                    <option>6.3mm</option>
+                    <option>4.4 mm</option>
+                    <option>3.5 / 4.4 mm</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="FrequencyRange" class="form-label">Frekans Aralığı</label>
+                <select asp-for="FrequencyRange" class="form-control">
+                    <option>5Hz-48,000Hz</option>
+                    <option>6Hz-40,000Hz</option>
+                    <option>7Hz-48,000Hz</option>
+                    <option>10Hz-48,000Hz</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoundLoudity" class="form-label">Ses Yüksekliği</label>
+                <select asp-for="SoundLoudity" class="form-control">
+                    <option>85dB</option>
+                    <option>95dB</option>
+                    <option>100dB</option>
+                    <option>120dB</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Weight" class="form-label">Ağırlık</label>
+                <input asp-for="Weight" class="form-control">
+            </div>
+            <div class="form-group">
+                <label asp-for="DriveType" class="form-label">Sürücü</label>
+                <input asp-for="DriveType" class="form-control">
+            </div>
+            <div class="form-group">
+                <label asp-for="ActiveNoiseCanceling" class="form-label">Aktif Gürültü Engelleme</label>
+                <select asp-for="ActiveNoiseCanceling" class="form-control">
+                    <option>Var</option>
+                    <option>Yok</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Impedance" class="form-label">Empedans</label>
+                <select asp-for="Impedance" class="form-control">
+                    <option>8 Ohm</option>
+                    <option>16 Ohm</option>
+                    <option>32 Ohm</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="PublishedOn" class="form-label">Tarih</label>
+                <input asp-for="PublishedOn" class="form-control" type="date">
+            </div>
+           <div class="form-group">
+                <label asp-for="BlogTag" class="form-label">Empedans</label>
+                <select asp-for="BlogTag" class="form-control">
+                    <option>Müzik Çalar</option>
+                    <option>Kulaklıklar </option>
+                    <option>Hoparlörler</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsActive" class="control-label"></label>
+                <select asp-for="IsActive" class="form-control">
+                    <option>true</option>
+                    <option>false</option>
+                    
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="HighlightsValue" class="control-label">Öne Çıkanlar</label>
+                <select asp-for="HighlightsValue" class="form-control">
+                    <option>True</option>
+                    <option>False</option>
+                    
+                </select>
+            </div>
+                <button type="submit" class="btn btn-primary">Blog Güncelle</button>
+          
+        </form>
+   
+    
+
+    @section Scripts{
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/7.1.1/tinymce.min.js" integrity="sha512-bAtLCmEwg+N9nr6iVELr/SlDxBlyoF0iVdPxAvcOCfUiyi6RcuS6Lzawi78iPbAfbNyIUftvwK9HPWd+3p975Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script>
+            tinymce.init({
+                selector: '#BlogText'
+            });
+        </script>
+    }

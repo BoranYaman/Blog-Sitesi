@@ -1,0 +1,925 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df241133546.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df241133546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df241452084.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df241452084.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df241934267.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df241934267.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df242057311.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df242057311.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df244116276.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\4e0bc969-e0e7-448b-9e20-91c1b67e92df244116276.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\61rtKxLDPBL._AC_UF1000,1000_QL80_243328819.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\61rtKxLDPBL._AC_UF1000,1000_QL80_243328819.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\71O3onRI71L._AC_UF350,350_QL80_244858509.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\71O3onRI71L._AC_UF350,350_QL80_244858509.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\82fa3d04-85ee-4cd8-a35a-74ab89197e7c244740976.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\82fa3d04-85ee-4cd8-a35a-74ab89197e7c244740976.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\blog.png",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720242001808.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720242001808.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720242440423.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720242440423.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720244047486.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720244047486.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720244356805.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720244356805.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720244613390.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720244613390.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720244613514.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720244613514.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720244659582.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720244659582.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720244834998.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720244834998.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\hq720245521729.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\hq720245521729.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\images241343842.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\images241343842.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\images244027673.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\images244027673.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\images245814312.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\images245814312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\images245925675.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\images245925675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\kahve-ile-cizim-19240209634.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\kahve-ile-cizim-19240209634.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim1240606975.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim1240606975.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim1240948253.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim1240948253.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim1242948898.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim1242948898.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim1245000863.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim1245000863.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim2243324227.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim2243324227.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3240135789.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3240135789.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3240222504.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3240222504.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3241303844.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3241303844.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3242407434.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3242407434.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3243127458.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3243127458.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3243228316.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3243228316.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3243328406.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3243328406.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3243408071.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3243408071.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim3243625008.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim3243625008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim4241008465.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim4241008465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim4241340244.jpeg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim4241340244.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim4241401716.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim4241401716.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim4242447019.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim4242447019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim4244214671.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim4244214671.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim4245808738.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim4245808738.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim4245823661.jpeg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim4245823661.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim5241712078.png",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim5241712078.png"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim5243254062.png",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim5243254062.png"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim5243858349.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim5243858349.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim5244825943.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim5244825943.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim6240815003.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim6240815003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim6242007333.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim6242007333.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim6242140773.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim6242140773.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim6242836658.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim6242836658.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Blogimg\\resim6243318958.jpg",
+      "PackagePath": "staticwebassets\\img\\Blogimg\\resim6243318958.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\HifiBlogImg\\Siyah Beyaz Tipografik Vlog Günlük  Logo.png",
+      "PackagePath": "staticwebassets\\img\\HifiBlogImg\\Siyah Beyaz Tipografik Vlog Günlük  Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\HifiBlogImg\\add.png",
+      "PackagePath": "staticwebassets\\img\\HifiBlogImg\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\1 (1)243557585.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\1 (1)243557585.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\1 (1)243655087.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\1 (1)243655087.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\1242640229.jpeg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\1242640229.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\1243455569.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\1243455569.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\1245105163.webp",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\1245105163.webp"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\2243239805.jpeg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\2243239805.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\2245146123.webp",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\2245146123.webp"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\3245153492.webp",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\3245153492.webp"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\4241818246.webp",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\4241818246.webp"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\4242941991.webp",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\4242941991.webp"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\4243734016.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\4243734016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\4245200328.webp",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\4245200328.webp"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\6244023516.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\6244023516.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\6244130103.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\6244130103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\6244805119.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\6244805119.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\6244905667.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\6244905667.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\resim2245411016.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\resim2245411016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\resim2245423314.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\resim2245423314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\resim4244408851.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\resim4244408851.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\resim5240059585.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\resim5240059585.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\resim5243858998.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\resim5243858998.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\resim6243705164.jpg",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\resim6243705164.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\img\\Sliderimg\\slkjhgf-1690270349245016357.webp",
+      "PackagePath": "staticwebassets\\img\\Sliderimg\\slkjhgf-1690270349245016357.webp"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\hcss\\h.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\hcss\\h.css"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\Preview.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\Preview.png"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\anker.webp",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\anker.webp"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\bloglar1.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\bloglar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\indi3.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\indi3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\indir.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\indir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\indir2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\indir2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\indir4.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\indir4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\indir5.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\indir5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\one1.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\one1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\one2.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\one2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\img\\one3.jpg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\img\\one3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\boran\\OneDrive\\Masaüstü\\Boran Yaman Belgeler\\Web Programlama\\Asp.net\\HifiBlog\\HifiBlog\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HifiBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HifiBlog.props",
+      "PackagePath": "build\\HifiBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HifiBlog.props",
+      "PackagePath": "buildMultiTargeting\\HifiBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HifiBlog.props",
+      "PackagePath": "buildTransitive\\HifiBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

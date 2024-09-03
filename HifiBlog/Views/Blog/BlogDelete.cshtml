@@ -1,0 +1,10 @@
+@model Blog
+<p>
+    <b>@Model.BlogName</b> bloğunu silmek ister misiniz
+</p>
+<form asp-action="BlogDelete" method="post">
+<input type="hidden" value="@Model.BlogId" name="id">
+<button type="submit" class="btn btn-danger">Evet</button>
+<a asp-action="BlogControllers" class="btn btn-primary">Hayır</a>
+</form>
+</p>

@@ -1,0 +1,10 @@
+@model Slider
+<p>
+    <b>@Model.SliderName</b> Slider silmek ister misiniz
+</p>
+<form asp-action="SliderDelete" method="post">
+<input type="hidden" value="@Model.SliderId" name="id">
+<button type="submit" class="btn btn-danger">Evet</button>
+<a asp-action="Controllers" class="btn btn-primary">Hayır</a>
+</form>
+</p>

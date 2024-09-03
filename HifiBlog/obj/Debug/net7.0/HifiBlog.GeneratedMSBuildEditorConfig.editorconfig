@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HifiBlog
+build_property.RootNamespace = HifiBlog
+build_property.ProjectDir = C:\Users\boran\OneDrive\Masaüstü\Boran Yaman Belgeler\Web Programlama\Asp.net\HifiBlog\HifiBlog\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\boran\OneDrive\Masaüstü\Boran Yaman Belgeler\Web Programlama\Asp.net\HifiBlog\HifiBlog
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/BlogAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/BlogControllers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nQ29udHJvbGxlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/BlogDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/BlogDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/BlogEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/BlogList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/Controllers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDb250cm9sbGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/coverletter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xjb3ZlcmxldHRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/PreliminaryInormationAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQcmVsaW1pbmFyeUlub3JtYXRpb25BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/PreliminaryInormationControllers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQcmVsaW1pbmFyeUlub3JtYXRpb25Db250cm9sbGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/PreliminaryInormationDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQcmVsaW1pbmFyeUlub3JtYXRpb25EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/PreliminaryInormationEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQcmVsaW1pbmFyeUlub3JtYXRpb25FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/SliderAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xTbGlkZXJBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/SliderControllers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xTbGlkZXJDb250cm9sbGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/SliderDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xTbGlkZXJEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Blog/SliderEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xTbGlkZXJFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/Shared/_LayoutBlogController.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRCbG9nQ29udHJvbGxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/boran/OneDrive/Masaüstü/Boran Yaman Belgeler/Web Programlama/Asp.net/HifiBlog/HifiBlog/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,10 @@
+@model PreliminaryInormation
+<p>
+    <b>@Model.PITitle</b>  silmek ister misiniz
+</p>
+<form asp-action="PreliminaryInormationDelete" method="post">
+<input type="hidden" value="@Model.id" name="id">
+<button type="submit" class="btn btn-danger">Evet</button>
+<a asp-action="Controllers" class="btn btn-primary">Hayır</a>
+</form>
+</p>

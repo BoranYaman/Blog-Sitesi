@@ -1,0 +1,183 @@
+@using HifiBlog.Models
+@model HifiBlog.Models.BlogViewModel
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <style>
+        .carousel-container {
+            width: 99vw;
+            height: 60vh;
+            margin: 2% auto;
+        }
+        .carousel-item img {
+            width: 100%;
+            height: 80vh;
+            object-fit: cover;
+        }
+        .karsilama {
+            width: 50vw;
+            margin-left: auto;
+            margin-right:auto ;
+
+            margin-top: 15em;
+            text-align: center;
+        }
+        .onecikanlar{
+            margin-top: 5%;
+            width: 75vw;
+            height: 40vh;
+            margin-left: auto;
+            margin-right: auto;
+
+        }
+        .one1 {
+            margin-left: 1%;
+            position: relative;
+            width: 32%;
+            height: 100%; 
+            overflow: hidden;
+            display: inline-block; 
+        }
+        .one1img {
+              width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all 1s ease;
+        }
+        .one1img:hover {
+            transform: scale(1.15);
+            object-fit: cover; /* Hover durumunda da resmi div içinde tutmak için */
+        }
+        .oneh1 {
+            position: absolute;
+            text-align: center;
+            width: 90%;
+            top: 80%;
+           margin-left: 50%;
+            transform: translate(-50%, -50%);
+            color: rgb(255, 255, 255);
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 5px;
+            font-size: 24px;
+        }
+        .bloglarimg{
+            width: 100%;
+    height: 100%;
+    object-fit: cover;
+        }
+        .anablog1{
+            width: 23%; 
+            float: left;
+            height: 60vh;
+            margin-left: 1.5%;
+            border-style: solid;
+            border-width: 1px;
+            border-color:rgb(145, 130, 130) ;
+        }
+        .image-container {
+    width: 80%; /* Kapsayıcı genişliği */
+    height: 30%; /* Kapsayıcı yüksekliği */
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Veya 'contain', 'fill', 'scale-down' */
+}
+        .bloglarimg{
+            width: 100%;
+            height: 50%;
+        }
+        .bloglarbtn{
+            margin-top: 5%;
+            margin-left: 1%;
+             border-color: black;
+             border-width: 1.5px;
+             border-style: solid;
+            position: absolute;
+
+        }
+        .bloglarh3{
+            font-size: 22px;
+            margin-top: 3%;
+            margin-left: 1%;
+            font-family:Arial, Helvetica, sans-serif;
+            
+        }
+    </style>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        
+        <div class="carousel-inner">
+            @for (int i = 0; i < Model.Sliders.Count; i++)
+            {
+                var slider = Model.Sliders[i];
+                <div class="carousel-item @(i == 0 ? "active" : "")">
+                   <img class="bloglarimg" src="~/img/SliderImg/@slider.SliderImg" alt="Slide @i">
+
+                    
+                </div>
+                
+            }
+            
+        </div>
+        
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only"></span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only"></span>
+        </a>
+    </div>
+    @foreach (var PreIno in Model.PreliminaryInormations)
+    {
+        <div style="width: 50%; text-align: center;margin-top: 3%;margin-left: auto;margin-right: auto;">
+            <h1>@PreIno.PITitle</h1>
+            <p style="font-family: 'Georgia', serif; margin-top: 5%; ">  <p style=" width: 50%; font-family: 'Merriweather', serif;
+        ">@Html.Raw(@PreIno.Text.Replace("\n", "<br/>"))</p></p>
+        </div>
+    }
+
+
+
+    
+
+    </div>
+   
+    <div class="onecikanlar">
+        <h1 style="font-family: 'Merriweather', serif; text-align: center;margin-left: 0.6%;">Öne Çıkanlar</h1>
+        <br>
+        @foreach (var blogg in Model.HighlightedBlogs)
+        {
+            <a asp-action="BlogDetails" asp-route-id="@blogg.BlogId">
+     <div class="one1">  <h1  class="oneh1">@blogg.BlogName</h1>
+            <img class="one1img" src="~/img/BlogImg/@blogg.BlogImg" alt="">
+        </div> 
+       </a>
+    } 
+    </div>
+    <div style="margin-top: 10%;width: 95vw;height: 50vh;margin-left:auto;margin-right: auto;" >
+        <h1 style="font-family: 'Merriweather', serif; text-align: center;">En Son Eklenen Bloglar</h1>
+        <br>
+        <br>
+      
+        @foreach(var end in Model.Blogs)
+        {
+            <div   class="anablog1">
+                <img class="bloglarimg" src="~/img/Blogimg/@end.BlogImg" alt="">
+                <h3 style="height: 35%;font-family: 'Merriweather', serif;" class="bloglarh3">@end.BlogName</h3>
+              <a   style="color: black; text-decoration: none;" asp-action="BlogDetails" asp-route-id="@end.BlogId"><Button style="font-family: 'Merriweather', serif; margin-left: 5%;margin-top: 0%;" class="btn btn-secondary">Detaylar</Button></a>
+            </div>
+        }
+
+       
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
